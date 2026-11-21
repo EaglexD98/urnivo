@@ -1,0 +1,6 @@
+# Este repositorio es PÚBLICO: solo index.html, preview.png y este archivo.
+# Todo lo demás queda fuera para no publicar nada por accidente.
+*
+!.gitignore
+!index.html
+!preview.png
